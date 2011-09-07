@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/psvn/!svn/ver/16/1/scredis/src
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/psvn/!svn/ver/17/1/scredis/src/test.c
+END
+scredis.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/psvn/!svn/ver/17/1/scredis/src/scredis.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/psvn/!svn/ver/17/1/scredis/src/Makefile
+END
+scredis.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/psvn/!svn/ver/17/1/scredis/src/scredis.c
+END
